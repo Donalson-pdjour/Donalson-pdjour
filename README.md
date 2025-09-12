@@ -22,7 +22,7 @@
         />
     </a>
     <!-- GitHub Followers -->
-    <a href="https://github.com/DonalsonPDJR?tab=followers">
+    <a href="https://github.com/Donalson-pdjour?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 

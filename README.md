@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Donalson pdjour
+#🧑‍💻 Donalson pdjour
 
 **`Desenvolvedor de software`**
 
-👋 Prazer, sou "[Donalson PDJOUR](https://www.linkedin.com/in/donalson-pdjour/)", tenho 27 anos e sou do Rio Grande do Sul. Sou formado no ensino médio e estou em formação como Técnico em Desenvolvimento de Software. Tenho grande interesse por tecnologia e estou sempre buscando evoluir minhas habilidades como desenvolvedor.
+👋 Prazer, sou "[Donalson-djour](https://www.linkedin.com/in/donalson-pdjour/)", tenho 27 anos e sou do Rio Grande do Sul. Sou formado no ensino médio e estou em formação como Técnico em Desenvolvimento de Software. Tenho grande interesse por tecnologia e estou sempre buscando evoluir minhas habilidades como desenvolvedor.
 
 <p align="left">
     <!-- LinkedIn -->
@@ -34,7 +34,7 @@
 
 ---
 
-### 👨‍💻 Linguagens e Tecnologias
+###👨‍💻 Languages & Technologies
 
 <img 
     align="left" 
@@ -122,22 +122,22 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📈 GitHub Stats
 
 <p>
+<p align="left">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
+    alt="GitHub Stat Donalson-pdjour" 
     height="150" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Donalson-pdjour&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+    src="https://github-readme-stats.vercel.app/api?username=Donalson-pdjour&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"/>
+</p> -->
 
 <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=donalson-pdjour&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=donalson-pdjour&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 </p>
 

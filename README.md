@@ -128,15 +128,15 @@
 <p align="left">
   <img 
     alt="GitHub Stat Donalson-pdjour" 
-    height="150" 
+    height="100" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Donalson-pdjour&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"/>
-</p> -->
+</p>
 
 <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=donalson-pdjour&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
   />
 </p>

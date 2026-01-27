@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de software`**
 
-👋 Prazer, sou "[Donalson-djour](https://www.linkedin.com/in/donalson-pdjour/)", tenho 27 anos e sou do Rio Grande do Sul. Sou formado no ensino médio e estou em formação como Técnico em Desenvolvimento de Software. Tenho grande interesse por tecnologia e estou sempre buscando evoluir minhas habilidades como desenvolvedor.
+👋 Prazer, sou "[Donalson Point Du Jour](https://www.linkedin.com/in/donalson-pdjour/)", tenho 27 anos e sou do Rio Grande do Sul. Sou formado no ensino médio e estou em formação como Técnico em Desenvolvimento de Software. Tenho grande interesse por tecnologia e estou sempre buscando evoluir minhas habilidades como desenvolvedor.
 
 <p align="left">
     <!-- LinkedIn -->

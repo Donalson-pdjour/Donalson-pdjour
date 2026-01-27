@@ -110,11 +110,9 @@ Sou estudante de Desenvolvimento de Software e apaixonado por tecnologia. Estou 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
 
 <br/>
-<br/>
 
 ### 📈 GitHub Stats
 
-<p>
 <p align="left">
   <img 
     alt="GitHub Stat Donalson-pdjour" 

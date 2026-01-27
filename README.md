@@ -6,7 +6,7 @@
 
 <p align="left">
     <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/donalson-pdjour" target="_blank">
+    <a href="https://www.linkedin.com/in/donalson-dpjour/" target="_blank">
     <img 
         alt="LinkedIn"
         title="Meu LinkedIn"

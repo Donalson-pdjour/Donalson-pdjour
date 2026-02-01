@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de software`**
 
-👋 Olá! sou [Donalson Point Du Jour](https://www.linkedin.com/in/donalson-dpjour/), tenho 27 anos e moro no Rio Grande do Sul.
+👋 Olá! sou [Donalson](https://www.linkedin.com/in/donalson-dpjour/), tenho 27 anos e moro no Rio Grande do Sul.
 Sou estudante de Desenvolvimento de Software e apaixonado por tecnologia. Estou sempre em busca de aprendizado, novos desafios e oportunidades para evoluir como desenvolvedor e profissional da área de TI.
 
 <p align="left">
